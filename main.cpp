@@ -20,7 +20,7 @@ void print_menu(string name);
 
 int main() {
     
-    print("test");
+    print("test")
 
     return 0;
  
